@@ -45,6 +45,8 @@ public class SegmentIDGenImpl implements IDGen {
      */
     private static final long SEGMENT_DURATION = 15 * 60 * 1000L;
     /**
+     *
+     * test
      * 最大步长不超过100,0000
      */
     private static final int MAX_STEP = 1000000;
